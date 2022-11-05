@@ -7,7 +7,7 @@ so can assist to install the device. The task in this competition is to segment 
 ## Getting the code
 You can download all the files in this repository by cloning this repository:
 ```
-https://github.com/Jia-Wei-Liao/Ultrasound_Nerve_Segmentation.git
+https://github.com/YCHung1998/Ultrasound_Nerve_Segmentation.git
 ```
 
 ## Repository structure
@@ -128,7 +128,7 @@ To reproduce our submission, please do the following steps:
 @misc{
     title = {nuclear_dataset_segmentation},
     author = {Jia-Wei Liao, Kuok-Tong Ng, Yi-Cheng Hung},
-    url = {https://github.com/Jia-Wei-Liao/Ultrasound_Nerve_Segmentation},
+    url = {https://github.com/YCHung1998/Ultrasound_Nerve_Segmentation.git},
     year = {2022}
 }
 ```
